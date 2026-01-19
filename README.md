@@ -53,53 +53,41 @@ Started coding at **13** with Discord bots and FiveM scripts. Fast forward to to
 
 ---
 
-## 🔥 PROJECTS THAT SLAP
-
-<table>
-<tr>
-<td width="50%">
+## 🔥 FEATURED WORK
 
 ### 🧠 NoAnswerAI
-**The AI that trolls you back**
-- Powered by Google Gemini
-- Sarcasm level: Maximum
-- [→ Check it out](https://github.com/ShaiHey/NoAnswerAi)
+> **The AI that trolls you back** — Powered by Google Gemini with maximum sarcasm level
+> 
+> `AI` `Google Gemini` `Humor`
+> 
+> [→ View Project](https://github.com/ShaiHey/NoAnswerAi)
 
-</td>
-<td width="50%">
+---
 
 ### 🗓️ Appointment Manager
-**Full Stack scheduling beast**
-- Real-time updates
-- Clean UI/UX
-- Currently cooking 🔥
-- [→ See the code](https://github.com/ShaiHey/appointment-manager)
+> **Full Stack scheduling beast** — Real-time updates with clean UI/UX design
+> 
+> `React` `Node.js` `MongoDB` `Socket.IO`
+> 
+> [→ View Project](https://github.com/ShaiHey/appointment-manager)
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+---
 
 ### 🤖 rBotRP
-**Advanced Discord bot for FiveM RP**
-- Moderation on steroids
-- Custom commands galore
-- Hosted on alt account
-- [→ Explore](https://github.com/RayanWaize/rBotRP)
+> **Advanced Discord bot for FiveM RP servers** — Moderation on steroids with custom commands
+> 
+> `Discord.js` `FiveM` `JavaScript`
+> 
+> [→ View Project](https://github.com/RayanWaize/rBotRP) *(Hosted on alt account)*
 
-</td>
-<td width="50%">
+---
 
-### 🌐 Portfolio
-**My digital playground**
-- Modern design
-- Smooth animations
-- Built with passion
-- [→ Visit live](https://shaiheyman.com)
-
-</td>
-</tr>
-</table>
+### 🌐 Portfolio Website
+> **My digital playground** — Modern design with smooth animations built with passion
+> 
+> `React` `TypeScript` `Responsive Design`
+> 
+> [→ Visit Live](https://shaiheyman.com)
 
 ---
 
@@ -107,9 +95,8 @@ Started coding at **13** with Discord bots and FiveM scripts. Fast forward to to
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=ShaiHey&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" width="49%" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaiHey&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ShaiHey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaiHey&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" width="37%" />
 
 </div>
 
