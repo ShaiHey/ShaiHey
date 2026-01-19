@@ -35,7 +35,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShaiHey&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ShaiHey&theme=tokyonight" width="48%" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaiHey&layout=compact&theme=tokyonight" width="48%" />
 </div>
